@@ -58,3 +58,6 @@
 [submodule "simonegli-hobbyspline"]
 	path = simonegli-hobbyspline
 	url = https://github.com/simonegli/hobbyspline
+[submodule "loicsander-font2pdf"]
+	path = loicsander-font2pdf
+	url = https://github.com/loicsander/Font2PDF
