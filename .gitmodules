@@ -1,0 +1,48 @@
+[submodule "loicsander-robofont-scripts"]
+	path = loicsander-robofont-scripts
+	url = https://github.com/loicsander/Robofont-scripts
+[submodule "danmilne-robofont"]
+	path = danmilne-robofont
+	url = https://github.com/danmilne/RoboFont
+[submodule "jenskutilek-robofont"]
+	path = jenskutilek-robofont
+	url = https://github.com/jenskutilek/RoboFont
+[submodule "typedev-robofont"]
+	path = typedev-robofont
+	url = https://github.com/typedev/RoboFont
+[submodule "sansplomb-robofonttools"]
+	path = sansplomb-robofonttools
+	url = https://github.com/sansplomb/RobofontTools
+[submodule "adobe-robofont-scripts"]
+	path = adobe-robofont-scripts
+	url = https://github.com/adobe-type-tools/robofont-scripts
+[submodule "fontbureau-opentools"]
+	path = fontbureau-opentools
+	url = https://github.com/FontBureau/fbOpenTools
+[submodule "fontfont-robochrome"]
+	path = fontfont-robochrome
+	url = https://github.com/fontfont/RoboChrome
+[submodule "sansplomb-quadraticconverter"]
+	path = sansplomb-quadraticconverter
+	url = https://github.com/sansplomb/QuadraticConverter
+[submodule "sansplomb-properties"]
+	path = sansplomb-properties
+	url = https://github.com/sansplomb/Properties
+[submodule "jenskutilek-curve-equalizer"]
+	path = jenskutilek-curve-equalizer
+	url = https://github.com/jenskutilek/Curve-Equalizer
+[submodule "jenskutilek-redarrow"]
+	path = jenskutilek-redarrow
+	url = https://github.com/jenskutilek/RedArrow
+[submodule "frankrolf-showdist"]
+	path = frankrolf-showdist
+	url = https://github.com/frankrolf/showDist
+[submodule "klaavo-scalingedittool"]
+	path = klaavo-scalingedittool
+	url = https://github.com/klaavo/scalingEditTool
+[submodule "lapolice-lp-rf-tools"]
+	path = lapolice-lp-rf-tools
+	url = https://github.com/LaPolice/LP-RF-Tools
+[submodule "asaumierdemers-cabrobofontscripts"]
+	path = asaumierdemers-cabrobofontscripts
+	url = https://github.com/asaumierdemers/cabRoboFontScripts
