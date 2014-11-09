@@ -52,3 +52,9 @@
 [submodule "ninastoessinger-word-o-mat"]
 	path = ninastoessinger-word-o-mat
 	url = https://github.com/ninastoessinger/word-o-mat
+[submodule "charlesmchen-typefacet-robofont"]
+	path = charlesmchen-typefacet-robofont
+	url = https://github.com/charlesmchen/typefacet-robofont
+[submodule "simonegli-hobbyspline"]
+	path = simonegli-hobbyspline
+	url = https://github.com/simonegli/hobbyspline
