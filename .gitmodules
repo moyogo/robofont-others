@@ -46,3 +46,9 @@
 [submodule "asaumierdemers-cabrobofontscripts"]
 	path = asaumierdemers-cabrobofontscripts
 	url = https://github.com/asaumierdemers/cabRoboFontScripts
+[submodule "ninastoessinger-touche"]
+	path = ninastoessinger-touche
+	url = https://github.com/ninastoessinger/Touche
+[submodule "ninastoessinger-word-o-mat"]
+	path = ninastoessinger-word-o-mat
+	url = https://github.com/ninastoessinger/word-o-mat
