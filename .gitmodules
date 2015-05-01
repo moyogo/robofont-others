@@ -61,3 +61,6 @@
 [submodule "loicsander-font2pdf"]
 	path = loicsander-font2pdf
 	url = https://github.com/loicsander/Font2PDF
+[submodule "adobe-robofont-extensions"]
+	path = adobe-robofont-extensions
+	url = https://github.com/adobe-type-tools/robofont-extensions
