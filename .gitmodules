@@ -64,3 +64,12 @@
 [submodule "adobe-robofont-extensions"]
 	path = adobe-robofont-extensions
 	url = https://github.com/adobe-type-tools/robofont-extensions
+[submodule "typefounding-dump-fuse"]
+	path = typefounding-dump-fuse
+	url = https://github.com/Typefounding/dump-fuse
+[submodule "typefounding-underlinestrikethrough"]
+	path = typefounding-underlinestrikethrough
+	url = https://github.com/Typefounding/underlineStrikethrough
+[submodule "typefounding-copyglyphs"]
+	path = typefounding-copyglyphs
+	url = https://github.com/Typefounding/copyGlyphs
