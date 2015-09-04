@@ -73,3 +73,6 @@
 [submodule "typefounding-copyglyphs"]
 	path = typefounding-copyglyphs
 	url = https://github.com/Typefounding/copyGlyphs
+[submodule "hoeflerco-robofont"]
+	path = hoeflerco-robofont
+	url = https://github.com/hoeflerco/RoboFont
