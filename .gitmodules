@@ -76,3 +76,9 @@
 [submodule "hoeflerco-robofont"]
 	path = hoeflerco-robofont
 	url = https://github.com/hoeflerco/RoboFont
+[submodule "alexjacque-adjustmargins"]
+	path = alexjacque-adjustmargins
+	url = https://github.com/alexjacque/AdjustMargins
+[submodule "alexjacque-copysidebearings"]
+	path = alexjacque-copysidebearings
+	url = https://github.com/alexjacque/CopySidebearings
