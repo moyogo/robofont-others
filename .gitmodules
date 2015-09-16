@@ -82,3 +82,6 @@
 [submodule "alexjacque-copysidebearings"]
 	path = alexjacque-copysidebearings
 	url = https://github.com/alexjacque/CopySidebearings
+[submodule "gferreira-htools2"]
+	path = gferreira-htools2
+	url = https://github.com/gferreira/hTools2_extension
