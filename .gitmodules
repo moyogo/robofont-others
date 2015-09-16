@@ -85,3 +85,6 @@
 [submodule "gferreira-htools2"]
 	path = gferreira-htools2
 	url = https://github.com/gferreira/hTools2_extension
+[submodule "productiontpye-robolasso"]
+	path = productiontpye-robolasso
+	url = https://github.com/productiontype/RoboLasso
