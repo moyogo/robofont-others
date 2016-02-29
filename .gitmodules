@@ -88,3 +88,6 @@
 [submodule "productiontpye-robolasso"]
 	path = productiontpye-robolasso
 	url = https://github.com/productiontype/RoboLasso
+[submodule "glyphBrowser"]
+	path = letterror-glyphbrowser
+	url = https://github.com/LettError/glyphBrowser
