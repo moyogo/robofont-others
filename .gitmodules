@@ -115,3 +115,6 @@
 [submodule "typemytype-kerningchecker"]
 	path = typemytype-kerningchecker
 	url = https://github.com/typemytype/kerningCheckerRoboFontExtension
+[submodule "typemytype-outliner"]
+	path = typemytype-outliner
+	url = https://github.com/typemytype/outlinerRoboFontExtension
