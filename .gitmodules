@@ -142,3 +142,6 @@
 [submodule "typemytype-arrangewindows"]
 	path = typemytype-arrangewindows
 	url = https://github.com/typemytype/arrangeWindowsRoboFontExtension
+[submodule "typemytype-slanter"]
+	path = typemytype-slanter
+	url = https://github.com/typemytype/slanterRoboFontExtension
