@@ -148,3 +148,6 @@
 [submodule "typemytype-savecopy"]
 	path = typemytype-savecopy
 	url = https://github.com/typemytype/saveCopyRoboFontExtension
+[submodule "typemytype-profile"]
+	path = typemytype-profile
+	url = https://github.com/typemytype/profileRoboFontExtension
