@@ -160,3 +160,6 @@
 [submodule "typemytype-goldener"]
 	path = typemytype-goldener
 	url = https://github.com/typemytype/goldnerRoboFontExtension
+[submodule "typemytype-project"]
+	path = typemytype-project
+	url = https://github.com/typemytype/projectRoboFontExtension
