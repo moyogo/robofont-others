@@ -151,3 +151,6 @@
 [submodule "typemytype-profile"]
 	path = typemytype-profile
 	url = https://github.com/typemytype/profileRoboFontExtension
+[submodule "typemytype-pathoperator"]
+	path = typemytype-pathoperator
+	url = https://github.com/typemytype/pathOperatorRoboFontExtension
