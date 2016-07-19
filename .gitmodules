@@ -106,3 +106,6 @@
 [submodule "asaumierdemers-addoverlap"]
 	path = asaumierdemers-addoverlap
 	url = https://github.com/asaumierdemers/AddOverlap
+[submodule "asaumierdemers-broadnibbackground"]
+	path = asaumierdemers-broadnibbackground
+	url = https://github.com/asaumierdemers/BroadNibBackground
