@@ -103,3 +103,6 @@
 [submodule "ninastoessinger-spaceflip"]
 	path = ninastoessinger-spaceflip
 	url = https://github.com/ninastoessinger/SpaceFlip
+[submodule "asaumierdemers-addoverlap"]
+	path = asaumierdemers-addoverlap
+	url = https://github.com/asaumierdemers/AddOverlap
