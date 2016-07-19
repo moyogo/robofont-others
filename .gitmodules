@@ -127,3 +127,6 @@
 [submodule "typemytype-pixeltool"]
 	path = typemytype-pixeltool
 	url = https://github.com/typemytype/pixelToolRoboFontExtension
+[submodule "typemytype-groups2features"]
+	path = typemytype-groups2features
+	url = https://github.com/typemytype/groups2featuresRoboFontExtension
