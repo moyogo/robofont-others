@@ -112,3 +112,6 @@
 [submodule "typemytype-ramsaystreet"]
 	path = typemytype-ramsaystreet
 	url = https://github.com/typemytype/ramsayStreetRoboFontExtension
+[submodule "typemytype-kerningchecker"]
+	path = typemytype-kerningchecker
+	url = https://github.com/typemytype/kerningCheckerRoboFontExtension
