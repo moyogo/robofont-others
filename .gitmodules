@@ -130,3 +130,6 @@
 [submodule "typemytype-groups2features"]
 	path = typemytype-groups2features
 	url = https://github.com/typemytype/groups2featuresRoboFontExtension
+[submodule "typemytype-layerpreview"]
+	path = typemytype-layerpreview
+	url = https://github.com/typemytype/layerPreviewRoboFontExtension
