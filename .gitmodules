@@ -124,3 +124,6 @@
 [submodule "typemytype-shapetool"]
 	path = typemytype-shapetool
 	url = https://github.com/typemytype/shapeToolRoboFontExtension
+[submodule "typemytype-pixeltool"]
+	path = typemytype-pixeltool
+	url = https://github.com/typemytype/pixelToolRoboFontExtension
