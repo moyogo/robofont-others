@@ -91,3 +91,6 @@
 [submodule "glyphBrowser"]
 	path = letterror-glyphbrowser
 	url = https://github.com/LettError/glyphBrowser
+[submodule "typemytype-drawbot"]
+	path = typemytype-drawbot
+	url = https://github.com/typemytype/drawBotRoboFontExtension
