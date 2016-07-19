@@ -154,3 +154,6 @@
 [submodule "typemytype-pathoperator"]
 	path = typemytype-pathoperator
 	url = https://github.com/typemytype/pathOperatorRoboFontExtension
+[submodule "typemytype-logger"]
+	path = typemytype-logger
+	url = https://github.com/typemytype/loggerRoboFontExtension
