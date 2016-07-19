@@ -118,3 +118,6 @@
 [submodule "typemytype-outliner"]
 	path = typemytype-outliner
 	url = https://github.com/typemytype/outlinerRoboFontExtension
+[submodule "typemytype-send2twitter"]
+	path = typemytype-send2twitter
+	url = https://github.com/typemytype/send2twitterRoboFontExtension
