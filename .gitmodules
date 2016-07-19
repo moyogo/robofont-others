@@ -97,3 +97,6 @@
 [submodule "sansplomb-italicguide"]
 	path = sansplomb-italicguide
 	url = https://github.com/sansplomb/ItalicGuide
+[submodule "ninastoessinger-suffixer"]
+	path = ninastoessinger-suffixer
+	url = https://github.com/ninastoessinger/Suffixer
