@@ -157,3 +157,6 @@
 [submodule "typemytype-logger"]
 	path = typemytype-logger
 	url = https://github.com/typemytype/loggerRoboFontExtension
+[submodule "typemytype-goldener"]
+	path = typemytype-goldener
+	url = https://github.com/typemytype/goldnerRoboFontExtension
