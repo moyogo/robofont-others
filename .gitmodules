@@ -94,3 +94,6 @@
 [submodule "typemytype-drawbot"]
 	path = typemytype-drawbot
 	url = https://github.com/typemytype/drawBotRoboFontExtension
+[submodule "sansplomb-italicguide"]
+	path = sansplomb-italicguide
+	url = https://github.com/sansplomb/ItalicGuide
