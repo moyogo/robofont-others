@@ -100,3 +100,6 @@
 [submodule "ninastoessinger-suffixer"]
 	path = ninastoessinger-suffixer
 	url = https://github.com/ninastoessinger/Suffixer
+[submodule "ninastoessinger-spaceflip"]
+	path = ninastoessinger-spaceflip
+	url = https://github.com/ninastoessinger/SpaceFlip
