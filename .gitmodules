@@ -133,3 +133,6 @@
 [submodule "typemytype-layerpreview"]
 	path = typemytype-layerpreview
 	url = https://github.com/typemytype/layerPreviewRoboFontExtension
+[submodule "typemytype-glifviewer"]
+	path = typemytype-glifviewer
+	url = https://github.com/typemytype/glifViewerRoboFontExtension
