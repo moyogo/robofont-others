@@ -139,3 +139,6 @@
 [submodule "typemytype-featurepreview"]
 	path = typemytype-featurepreview
 	url = https://github.com/typemytype/featurePreviewRoboFontExtension
+[submodule "typemytype-arrangewindows"]
+	path = typemytype-arrangewindows
+	url = https://github.com/typemytype/arrangeWindowsRoboFontExtension
