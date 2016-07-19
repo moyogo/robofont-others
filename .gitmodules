@@ -109,3 +109,6 @@
 [submodule "asaumierdemers-broadnibbackground"]
 	path = asaumierdemers-broadnibbackground
 	url = https://github.com/asaumierdemers/BroadNibBackground
+[submodule "typemytype-ramsaystreet"]
+	path = typemytype-ramsaystreet
+	url = https://github.com/typemytype/ramsayStreetRoboFontExtension
