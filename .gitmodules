@@ -145,3 +145,6 @@
 [submodule "typemytype-slanter"]
 	path = typemytype-slanter
 	url = https://github.com/typemytype/slanterRoboFontExtension
+[submodule "typemytype-savecopy"]
+	path = typemytype-savecopy
+	url = https://github.com/typemytype/saveCopyRoboFontExtension
