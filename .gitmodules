@@ -23,10 +23,10 @@
 	path = fontfont-robochrome
 	url = https://github.com/fontfont/RoboChrome
 [submodule "sansplomb-quadraticconverter"]
-	path = sansplomb-quadraticconverter
+	path = blackfoundry-quadraticconverter
 	url = https://github.com/sansplomb/QuadraticConverter
 [submodule "sansplomb-properties"]
-	path = sansplomb-properties
+	path = blackfoundry-properties
 	url = https://github.com/sansplomb/Properties
 [submodule "jenskutilek-curve-equalizer"]
 	path = jenskutilek-curve-equalizer
