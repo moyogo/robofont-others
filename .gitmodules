@@ -166,3 +166,6 @@
 [submodule "blackfoundry-designrecorder"]
 	path = blackfoundry-designrecorder
 	url = https://github.com/BlackFoundry/DesignRecorder
+[submodule "blackfoundry-converttocurves"]
+	path = blackfoundry-converttocurves
+	url = https://github.com/BlackFoundry/ConvertToCurves
