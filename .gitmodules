@@ -172,3 +172,6 @@
 [submodule "blackfoundry-converttolines"]
 	path = blackfoundry-converttolines
 	url = https://github.com/BlackFoundry/ConvertToLines
+[submodule "blackfoundry-copytomask"]
+	path = blackfoundry-copytomask
+	url = https://github.com/BlackFoundry/CopyToMask
