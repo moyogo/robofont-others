@@ -163,3 +163,6 @@
 [submodule "typemytype-project"]
 	path = typemytype-project
 	url = https://github.com/typemytype/projectRoboFontExtension
+[submodule "blackfoundry-designrecorder"]
+	path = blackfoundry-designrecorder
+	url = https://github.com/BlackFoundry/DesignRecorder
