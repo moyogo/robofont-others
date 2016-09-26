@@ -169,3 +169,6 @@
 [submodule "blackfoundry-converttocurves"]
 	path = blackfoundry-converttocurves
 	url = https://github.com/BlackFoundry/ConvertToCurves
+[submodule "blackfoundry-converttolines"]
+	path = blackfoundry-converttolines
+	url = https://github.com/BlackFoundry/ConvertToLines
