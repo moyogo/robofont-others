@@ -175,3 +175,6 @@
 [submodule "blackfoundry-copytomask"]
 	path = blackfoundry-copytomask
 	url = https://github.com/BlackFoundry/CopyToMask
+[submodule "typemytype-batchrobofontextension"]
+	path = typemytype-batchrobofontextension
+	url = https://github.com/typemytype/batchRoboFontExtension
