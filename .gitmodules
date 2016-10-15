@@ -178,3 +178,6 @@
 [submodule "typemytype-batchrobofontextension"]
 	path = typemytype-batchrobofontextension
 	url = https://github.com/typemytype/batchRoboFontExtension
+[submodule "letterror-editthatnextmaster"]
+	path = letterror-editthatnextmaster
+	url = https://github.com/LettError/editThatNextMaster
