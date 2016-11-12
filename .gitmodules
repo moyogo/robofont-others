@@ -181,3 +181,6 @@
 [submodule "letterror-editthatnextmaster"]
 	path = letterror-editthatnextmaster
 	url = https://github.com/LettError/editThatNextMaster
+[submodule "letterror-designspacerobofontextension"]
+	path = letterror-designspacerobofontextension
+	url = https://github.com/LettError/designSpaceRoboFontExtension
