@@ -184,3 +184,6 @@
 [submodule "letterror-designspacerobofontextension"]
 	path = letterror-designspacerobofontextension
 	url = https://github.com/LettError/designSpaceRoboFontExtension
+[submodule "lukesnider-glyphgiffer"]
+	path = lukesnider-glyphgiffer
+	url = https://github.com/luke-snider/GlyphGiffer
