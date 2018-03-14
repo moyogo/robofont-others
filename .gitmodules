@@ -187,3 +187,6 @@
 [submodule "lukesnider-glyphgiffer"]
 	path = lukesnider-glyphgiffer
 	url = https://github.com/luke-snider/GlyphGiffer
+[submodule "adobe-kernalytics"]
+	path = adobe-kernalytics
+	url = https://github.com/adobe-type-tools/kernalytics-rf-ext
