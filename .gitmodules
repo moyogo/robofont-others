@@ -190,3 +190,6 @@
 [submodule "adobe-kernalytics"]
 	path = adobe-kernalytics
 	url = https://github.com/adobe-type-tools/kernalytics-rf-ext
+[submodule "luke-snider-de-casteljau"]
+	path = luke-snider-de-casteljau
+	url = https://github.com/luke-snider/de-casteljau
