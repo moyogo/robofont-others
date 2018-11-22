@@ -193,3 +193,6 @@
 [submodule "luke-snider-de-casteljau"]
 	path = luke-snider-de-casteljau
 	url = https://github.com/luke-snider/de-casteljau
+[submodule "jtanadi-checkparalleltool"]
+	path = jtanadi-checkparalleltool
+	url = https://github.com/jtanadi/CheckParallelTool
