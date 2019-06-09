@@ -196,3 +196,6 @@
 [submodule "jtanadi-checkparalleltool"]
 	path = jtanadi-checkparalleltool
 	url = https://github.com/jtanadi/CheckParallelTool
+[submodule "ryanbugden-sidebear"]
+	path = ryanbugden-sidebear
+	url = https://github.com/ryanbugden/Sidebear
