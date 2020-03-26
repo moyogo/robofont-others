@@ -205,3 +205,6 @@
 [submodule "adobe-adjustanchorsrfext"]
 	path = adobe-adjustanchorsrfext
 	url = git@github.com:adobe-type-tools/adjust-anchors-rf-ext.git
+[submodule "blackfoundrycom-referenceviewer"]
+	path = blackfoundrycom-referenceviewer
+	url = git@github.com:BlackFoundryCom/reference-viewer.git
